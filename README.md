@@ -1,8 +1,5 @@
 # Mickey: A Cyberdeck Focus Engine 
 
-
-
-
 ### A Short Story
 If you forced someone to sit in a chair and stare at a blank wall for 10 hours a day, it would be considered psychological torture. But add a glowing rectangle, and society calls it a "strong work ethic."
 
@@ -25,6 +22,27 @@ I wanted to build a tool that actually has empathy for the machine *and* the hum
 * 🛑 **The Burnout Enforcer:** A relentless 15-minute timer. After 15 minutes of uninterrupted focus, she locks down. No petting, no playing-just a hard stop until you physically click the `[ BREAK DONE ]` button confirming you stepped away from the keyboard. 
 * 😴 **Auto-Sleep:** If it hits 11:00 PM, Mickey automatically goes to sleep and drops a message telling you that you should be resting, too. 
 
+### Controls & Hidden Interactions
+* Drag anywhere: Move Mickey around your screen.
+
+* Bottom Right Corner: Drag the ⇲ icon to resize her window.
+
+* Double-Click the Sun/Moon: Force a manual weather radar sync.
+
+* Double-Click the Clock: Toggle a 25-minute Pomodoro deep-work mode.
+
+* Double-Click the Sky: Tell Mickey to take a nap manually.
+
+* Click the floating Bone: Open your System Dashboard (Focus Battery, Screen Time, CPU/RAM %, and Pet Count).
+
+* Click the Bowl: Mickey will say hi.
+
+* Hover over Mickey: Pet her! ❤️ (Boosts your focus energy).
+
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/160520c0-cc08-405a-87c9-6ec2bf0501c3" />
+
+
 
 ### How to run Mickey
 
@@ -34,3 +52,5 @@ If you want to run Mickey on your own machine, you just need Python and a few ba
 ```bash
 git clone [https://github.com/elainaaa-saraaa/mickey-cyberdeck]
 cd mickey-cyberdeck
+
+
