@@ -32,5 +32,5 @@ If you want to run Mickey on your own machine, you just need Python and a few ba
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/elainaaa-saraaa/expert-system.git](https://github.com/elainaaa-saraaa/expert-system.git)
-cd expert-system
+git clone [https://github.com/elainaaa-saraaa/mickey-cyberdeck]
+cd mickey-cyberdeck
