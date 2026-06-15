@@ -365,12 +365,13 @@ class MickeyCyberdeck:
         # The whimsical messagess (my fav part)
         if bx <= event.x <= bx + 144 and by <= event.y <= by + 64:
             self.show_bowl_message(random.choice([
-                "Mickey says hi! 🐾", 
+                "Mickey says hiiii! 🐾", 
                 "Double-click me to take a nap! 💤",
                 "Double-click sun/moon for weather! ☀️",
                 "You're doing great today! 🌟",
                 "Remember to hydrate! 💧",
-                "Don't let the bugs bite! 🐛"
+                "Believe that everything happens for a reason:>",
+                "Don't stress yourself out, take a breath :)"
             ]))
             return
             
