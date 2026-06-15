@@ -37,11 +37,7 @@ I wanted to build a tool that actually has empathy for the machine *and* the hum
 
 * Click the Bowl: Mickey will say hi.
 
-* Hover over Mickey: Pet her! ❤️ (Boosts your focus energy).
-
-
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/160520c0-cc08-405a-87c9-6ec2bf0501c3" />
-
+* Hover over Mickey: Pet her! ❤️ (Boosts your focus energy)
 
 
 ### How to run Mickey
