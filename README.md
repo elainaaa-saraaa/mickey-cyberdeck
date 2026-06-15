@@ -16,11 +16,11 @@ On the surface, Mickey is a frameless, transparent pixel-art companion that live
 
 I wanted to build a tool that actually has empathy for the machine *and* the human using it.
 
-* ⚙️ **OS-Level Empathy (`psutil`):** Mickey feels the computer’s pain. A silent background daemon monitors CPU and RAM allocation. If you hoard 50 Chrome tabs while compiling and the CPU spikes over 85%, she panics, enters a "sad" state, and locks the UI to warn you to cool things off.
-* 🔒 **Zero Cloud Bloat (`SQLite3`):** No SaaS subscriptions, no data harvesting. Mickey uses a local relational database to permanently and privately track your daily screen time, focus metrics, and UI interactions on your own metal.
-* 🌤️ **Async Reality Sync (`threading`):** Background daemons ping satellite weather APIs (`wttr.in`) without blocking the main UI loop. The 2D canvas sky dynamically changes to match the actual weather outside your window. The sun and moon also rise and set based on your local astronomical times.
-* 🛑 **The Burnout Enforcer:** A relentless 15-minute timer. After 15 minutes of uninterrupted focus, she locks down. No petting, no playing-just a hard stop until you physically click the `[ BREAK DONE ]` button confirming you stepped away from the keyboard. 
-* 😴 **Auto-Sleep:** If it hits 11:00 PM, Mickey automatically goes to sleep and drops a message telling you that you should be resting, too. 
+* **OS-Level Empathy (`psutil`):** Mickey feels the computer’s pain. A silent background daemon monitors CPU and RAM allocation. If you hoard 50 Chrome tabs while compiling and the CPU spikes over 85%, she panics, enters a "sad" state, and locks the UI to warn you to cool things off.
+* **Zero Cloud Bloat (`SQLite3`):** No SaaS subscriptions, no data harvesting. Mickey uses a local relational database to permanently and privately track your daily screen time, focus metrics, and UI interactions on your own metal.
+* **Async Reality Sync (`threading`):** Background daemons ping satellite weather APIs (`wttr.in`) without blocking the main UI loop. The 2D canvas sky dynamically changes to match the actual weather outside your window. The sun and moon also rise and set based on your local astronomical times.
+*  **The Burnout Enforcer:** A relentless 15-minute timer. After 15 minutes of uninterrupted focus, she locks down. No petting, no playing-just a hard stop until you physically click the `[ BREAK DONE ]` button confirming you stepped away from the keyboard. 
+* **Auto-Sleep:** If it hits 11:00 PM, Mickey automatically goes to sleep and drops a message telling you that you should be resting, too. 
 
 ### Controls & Hidden Interactions
 * Drag anywhere: Move Mickey around your screen.
